@@ -28,7 +28,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 	<div class="col-6">
 	<br>
 	<blockquote class="blockquote text-center">
-	  <p class="mb-0">Crud Basico PHP (LocalHost)</p>
+	  <p class="mb-0">Crud Basico PHP (7)</p>
 	  <footer class="blockquote-footer">Este es un ejemplo basico de un CRUD hecho en php <cite title="Source Title">Creditos a los autores originales <b>https://tutorialsclass.com/</b></cite>
 	  <a href="https://tutorialsclass.com/code/php-simple-crud-application">Descarga Original</a>	  
 	  </footer>

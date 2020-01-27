@@ -1,4 +1,4 @@
-### Crud Basico Php Git (apache 5.6 y mysql 5.7)
+### Crud Basico Php Git (apache 7.0 y mysql 8.0)
 EL siguiente proyecto contiene un proyecto creado en php y versionado en ramas de git que se ejecutara en el un servidor ubuntu por medio de la ejecución de docker
 
 #### Requisitos Basicos
